@@ -1,0 +1,5 @@
+matplotlib==3.9.2
+mediapipe==0.10.15
+numpy==1.26.4
+opencv-python==4.10.0.84
+pyvirtualcam==0.12.0
